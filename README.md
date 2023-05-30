@@ -1,12 +1,12 @@
 ### ✨🏡 A New Home
-!!! info
-	We're looking for a male flatmate in a ready to move 3.5BHK fully furnished flat
+
+**We're looking for a male flatmate in a ready to move 3.5BHK fully furnished flat**
 
 ![House](https://lh3.googleusercontent.com/pw/AJFCJaVAcXAdtrEnLfxf93EubQarRpKJFA8OvtxYaBQETCyui_SJ_kEQspG2GhnKyO3coEifv7Vc3Po9nZgGqEB8YbSsOtVMtXyJDSjrPh9Gn3mTBW9HyiNa=w2400)
 
 #### 📸 Media
-- **Videos**: https://twitter.com/anmolgaba97/status/1663147215395643392
-- **Images**: https://photos.app.goo.gl/aPcV6e7PUFPfqYT87
+- **Videos**: [https://twitter.com/anmolgaba97/status/1663147215395643392](https://twitter.com/anmolgaba97/status/1663147215395643392)
+- **Images**: [https://photos.app.goo.gl/aPcV6e7PUFPfqYT87](https://photos.app.goo.gl/aPcV6e7PUFPfqYT87)
 
 #### 💵 Financials
 These numbers are per person:
@@ -23,7 +23,7 @@ Note:
 - On joining the new flatmate pays his share of deposit + brokerage + rent (on a pro-rata basis) to us.
 
 #### 📍 Location
-- **Maps Link for landmark**: https://goo.gl/maps/j2FpxnCED9AWCK3g6
+- **Maps Link for landmark**: [https://goo.gl/maps/j2FpxnCED9AWCK3g6](https://goo.gl/maps/j2FpxnCED9AWCK3g6)
 - Situated on the main road in a posh residential area (Millers Road)
 - Surrounded by Shivaji Nagar and Vasanth Nagar
 - **Nearest Metro Station**: Cubbon Park Metro Station (1.5km)
@@ -69,8 +69,8 @@ We get the following items from the owner:
 ##### 🙋 Anmol Gaba
 - **Designation**: Software Development Engineer - 2 at Atlassian (EGL, Domlur)
 - **Interests**: working out, attending music concerts & techno parties, trying out cocktails, interior design
-- **LinkedIn**: https://www.linkedin.com/in/anmolgaba
+- **LinkedIn**: [https://www.linkedin.com/in/anmolgaba](https://www.linkedin.com/in/anmolgaba)
 ##### 💁 Dost Arora
 - **Designation**: Software Development Engineer - 2 at SAP (Whitefield)
 - **Interests**: reading books, open source enthusiast, human philosophy, sci-fi connoisseur
-- **LinkedIn**: https://www.linkedin.com/in/dost-arora
+- **LinkedIn**: [https://www.linkedin.com/in/dost-arora](https://www.linkedin.com/in/dost-arora)
